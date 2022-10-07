@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="qa_java2" />
+        <module name="untitled" />
+        <module name="qa_java" />
         <module name="Scheludiakov_sprint_6" />
       </profile>
     </annotationProcessing>
